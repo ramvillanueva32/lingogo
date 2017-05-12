@@ -1,0 +1,16 @@
+C:\Marvin\Applications\VisualStudio\Hackaton\Ai4Good\CognitiveAi\bin\Debug\CognitiveAi.exe.config
+C:\Marvin\Applications\VisualStudio\Hackaton\Ai4Good\CognitiveAi\obj\Debug\CognitiveAi.csprojResolveAssemblyReference.cache
+C:\Marvin\Applications\VisualStudio\Hackaton\Ai4Good\CognitiveAi\bin\Debug\CognitiveAi.exe
+C:\Marvin\Applications\VisualStudio\Hackaton\Ai4Good\CognitiveAi\bin\Debug\CognitiveAi.pdb
+C:\Marvin\Applications\VisualStudio\Hackaton\Ai4Good\CognitiveAi\obj\Debug\CognitiveAi.exe
+C:\Marvin\Applications\VisualStudio\Hackaton\Ai4Good\CognitiveAi\obj\Debug\CognitiveAi.pdb
+C:\Marvin\Applications\VisualStudio\Hackaton\Ai4Good\CognitiveAi\bin\Debug\Microsoft.ProjectOxford.Common.dll
+C:\Marvin\Applications\VisualStudio\Hackaton\Ai4Good\CognitiveAi\bin\Debug\Microsoft.ProjectOxford.Face.dll
+C:\Marvin\Applications\VisualStudio\Hackaton\Ai4Good\CognitiveAi\bin\Debug\Newtonsoft.Json.dll
+C:\Marvin\Applications\VisualStudio\Hackaton\Ai4Good\CognitiveAi\bin\Debug\System.Net.Http.Extensions.dll
+C:\Marvin\Applications\VisualStudio\Hackaton\Ai4Good\CognitiveAi\bin\Debug\System.Net.Http.Primitives.dll
+C:\Marvin\Applications\VisualStudio\Hackaton\Ai4Good\CognitiveAi\bin\Debug\Newtonsoft.Json.xml
+C:\Marvin\Applications\VisualStudio\Hackaton\Ai4Good\CognitiveAi\bin\Debug\System.Net.Http.Extensions.xml
+C:\Marvin\Applications\VisualStudio\Hackaton\Ai4Good\CognitiveAi\bin\Debug\System.Net.Http.Primitives.xml
+C:\Marvin\Applications\VisualStudio\Hackaton\Ai4Good\CognitiveAi\obj\Debug\CognitiveAi.csproj.App.config
+C:\Marvin\Applications\VisualStudio\Hackaton\Ai4Good\CognitiveAi\bin\Debug\Microsoft.ProjectOxford.Vision.dll

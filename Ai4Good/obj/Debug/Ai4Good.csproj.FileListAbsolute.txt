@@ -1,0 +1,41 @@
+C:\Marvin\Applications\VisualStudio\Hackaton\Ai4Good\Ai4Good\bin\Bot Application1.dll.config
+C:\Marvin\Applications\VisualStudio\Hackaton\Ai4Good\Ai4Good\bin\Bot Application1.dll
+C:\Marvin\Applications\VisualStudio\Hackaton\Ai4Good\Ai4Good\bin\Bot Application1.pdb
+C:\Marvin\Applications\VisualStudio\Hackaton\Ai4Good\Ai4Good\bin\Autofac.dll
+C:\Marvin\Applications\VisualStudio\Hackaton\Ai4Good\Ai4Good\bin\Chronic.dll
+C:\Marvin\Applications\VisualStudio\Hackaton\Ai4Good\Ai4Good\bin\Microsoft.Bot.Builder.dll
+C:\Marvin\Applications\VisualStudio\Hackaton\Ai4Good\Ai4Good\bin\Microsoft.Bot.Connector.dll
+C:\Marvin\Applications\VisualStudio\Hackaton\Ai4Good\Ai4Good\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Marvin\Applications\VisualStudio\Hackaton\Ai4Good\Ai4Good\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Marvin\Applications\VisualStudio\Hackaton\Ai4Good\Ai4Good\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Marvin\Applications\VisualStudio\Hackaton\Ai4Good\Ai4Good\bin\Newtonsoft.Json.dll
+C:\Marvin\Applications\VisualStudio\Hackaton\Ai4Good\Ai4Good\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Marvin\Applications\VisualStudio\Hackaton\Ai4Good\Ai4Good\bin\System.Net.Http.Formatting.dll
+C:\Marvin\Applications\VisualStudio\Hackaton\Ai4Good\Ai4Good\bin\System.Web.Http.dll
+C:\Marvin\Applications\VisualStudio\Hackaton\Ai4Good\Ai4Good\bin\System.Web.Http.WebHost.dll
+C:\Marvin\Applications\VisualStudio\Hackaton\Ai4Good\Ai4Good\bin\Autofac.xml
+C:\Marvin\Applications\VisualStudio\Hackaton\Ai4Good\Ai4Good\bin\Microsoft.Bot.Builder.xml
+C:\Marvin\Applications\VisualStudio\Hackaton\Ai4Good\Ai4Good\bin\Microsoft.Bot.Connector.xml
+C:\Marvin\Applications\VisualStudio\Hackaton\Ai4Good\Ai4Good\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Marvin\Applications\VisualStudio\Hackaton\Ai4Good\Ai4Good\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Marvin\Applications\VisualStudio\Hackaton\Ai4Good\Ai4Good\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Marvin\Applications\VisualStudio\Hackaton\Ai4Good\Ai4Good\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Marvin\Applications\VisualStudio\Hackaton\Ai4Good\Ai4Good\bin\Newtonsoft.Json.xml
+C:\Marvin\Applications\VisualStudio\Hackaton\Ai4Good\Ai4Good\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Marvin\Applications\VisualStudio\Hackaton\Ai4Good\Ai4Good\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Marvin\Applications\VisualStudio\Hackaton\Ai4Good\Ai4Good\bin\System.Net.Http.Formatting.xml
+C:\Marvin\Applications\VisualStudio\Hackaton\Ai4Good\Ai4Good\bin\System.Web.Http.xml
+C:\Marvin\Applications\VisualStudio\Hackaton\Ai4Good\Ai4Good\bin\System.Web.Http.WebHost.xml
+C:\Marvin\Applications\VisualStudio\Hackaton\Ai4Good\Ai4Good\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Marvin\Applications\VisualStudio\Hackaton\Ai4Good\Ai4Good\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Marvin\Applications\VisualStudio\Hackaton\Ai4Good\Ai4Good\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Marvin\Applications\VisualStudio\Hackaton\Ai4Good\Ai4Good\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Marvin\Applications\VisualStudio\Hackaton\Ai4Good\Ai4Good\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Marvin\Applications\VisualStudio\Hackaton\Ai4Good\Ai4Good\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Marvin\Applications\VisualStudio\Hackaton\Ai4Good\Ai4Good\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Marvin\Applications\VisualStudio\Hackaton\Ai4Good\Ai4Good\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Marvin\Applications\VisualStudio\Hackaton\Ai4Good\Ai4Good\obj\Debug\Ai4Good.csprojResolveAssemblyReference.cache
+C:\Marvin\Applications\VisualStudio\Hackaton\Ai4Good\Ai4Good\obj\Debug\Bot Application1.dll
+C:\Marvin\Applications\VisualStudio\Hackaton\Ai4Good\Ai4Good\obj\Debug\Bot Application1.pdb
+C:\Marvin\Applications\VisualStudio\Hackaton\Ai4Good\Ai4Good\bin\Microsoft.ProjectOxford.Face.dll
+C:\Marvin\Applications\VisualStudio\Hackaton\Ai4Good\Ai4Good\bin\Microsoft.ProjectOxford.Vision.dll
